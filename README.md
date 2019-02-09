@@ -1,10 +1,13 @@
 # rainyday
 
 When planning a cycle trip for the day, I want to find out what the weather is going to be like.
+<br />
 However, to do this I have to look up the weather at multiple locations along my route,
+<br />
 and estimate when I will be where, inevitably this is inefficient and inaccurate.
 
 I built an automated weather forcast for a specified route.
+<br />
 It returns the weather every hour at the location I'll be along the route, easy!
 
 ## Approach

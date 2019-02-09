@@ -32,7 +32,7 @@ I protected against problems associated with cycling too far in a day:
 
 ![image of Paris-Dubai](./images/Paris-Dubai,toofar.png)
 
-I also protected against problems associated with cycling across bodies of water:
+I also protected against problems associated with cycling across large bodies of water:
 
 ![image of Paris-Toronto](./images/Paris-Toronto,acrosssea.png)
 

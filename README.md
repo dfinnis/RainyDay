@@ -38,7 +38,7 @@ I also protected against problems associated with cycling across bodies of water
 
 ## Usage
 
-To launch: run ```$>python3 rainyday.py```
+To launch: run ``` $>python3 rainyday.py ```
 
 Specify origin and destination as prompted.
 

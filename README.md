@@ -1,4 +1,4 @@
-# rainyday
+# Rainy_day
 
 When planning a cycle trip for the day, I want to find out what the weather is going to be like.
 <br />
@@ -38,7 +38,7 @@ I also protected against problems associated with cycling across bodies of water
 
 ## Usage
 
-```python3 rainyday.py```
+```$>python3 rainyday.py```
 
 Specify origin and destination as prompted.
 

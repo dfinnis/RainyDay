@@ -9,9 +9,9 @@ It returns the weather every hour at the location I'll be along the route, easy!
 
 ## Approach
 
-Using API requests its possible to first find the latitude and longitude for a given origin and destination.
-Then yournavigation.org returns the route and travel time between origin and destination.
-The travel time informs how many hourly 'stops', and so weather forecast API requests, are necessary.
+Using API requests it's possible to first find the latitude and longitude for a given origin and destination.
+Then http://yournavigation.org returns the route and travel time between origin and destination.
+The travel time informs how many hourly 'stops' are necessary.
 The location along the route each hour can be found, then finaly the weather on location at the correct time.
 
 ![image of correct output](./images/Paris-Rouen.png)

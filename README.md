@@ -10,14 +10,16 @@ It returns the weather every hour at the location I'll be along the route, easy!
 ## Approach
 
 Using API requests it's possible to first find the latitude and longitude for a given origin and destination.
-Then http://yournavigation.org returns the route and travel time between origin and destination.
+<br />
+Then [yournavigation.org](http://yournavigation.org) returns the route and travel time between origin and destination.
+<br />
 The travel time informs how many hourly 'stops' are necessary.
+<br />
 The location along the route each hour can be found, then finaly the weather on location at the correct time.
 
 ![image of correct output](./images/Paris-Rouen.png)
 
 ![image of correct output2](./images/Evreux-Paris.png)
-<br />
 
 I protected against invalid city names:
 

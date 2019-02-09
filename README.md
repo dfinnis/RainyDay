@@ -28,17 +28,17 @@ I protected against invalid city names:
 
 ![image of Invalid city name](./images/Invalidcityname.png)
 
-I protected against problems associated with cycling across bodies of water:
-
-![image of Paris-Toronto](./images/Paris-Toronto,acrosssea.png)
-
-I also protected against problems associated with cycling too far in a day:
+I protected against problems associated with cycling too far in a day:
 
 ![image of Paris-Dubai](./images/Paris-Dubai,toofar.png)
 
+I also protected against problems associated with cycling across bodies of water:
+
+![image of Paris-Toronto](./images/Paris-Toronto,acrosssea.png)
+
 ## Usage
 
-python3 rainyday.py
+```python3 rainyday.py```
 
 Specify origin and destination as prompted.
 

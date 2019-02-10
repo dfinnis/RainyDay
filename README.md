@@ -44,6 +44,6 @@ Specify origin and destination as prompted.
 
 Dependencies: requests, json and pandas.
 
-BTW: There are only 50 API requests per day available. To get a new API key: register for a free account with [accuweather](https://developer.accuweather.com/), follow the directions, and replace the API key in rainyday.py.
+BTW: There are only 50 API requests per day available. To get a new API key: register for a free account with [accuweather](https://developer.accuweather.com/), follow the directions, add an app, and replace the API key in rainyday.py.
 
 Ride safe and stay dry!

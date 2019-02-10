@@ -2,9 +2,9 @@
 
 When planning a cycle trip for the day, I want to find out what the weather is going to be like.
 <br />
-However, to do this I have to look up the weather at multiple locations along my route,
+However, to do this I have to calculate when I will be where, then look up the weather at multiple locations along my route,
 <br />
-and estimate when I will be where, inevitably this is inefficient and inaccurate.
+inevitably this is inefficient.
 
 I built an automated weather forcast for a specified route.
 <br />
@@ -42,6 +42,6 @@ To launch: run ``` $>python3 rainyday.py ```
 
 Specify origin and destination as prompted.
 
-FYI: There are only 50 API requests per day available.
+BTW: There are only 50 API requests per day available.
 
 Ride safe and stay dry!

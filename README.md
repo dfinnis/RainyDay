@@ -3,7 +3,6 @@
 When planning a cycle trip for the day, I want to find out what the weather is going to be like.
 <br />
 However, to do this I have to calculate when I will be where, then look up the weather at multiple locations along my route,
-<br />
 inevitably this is inefficient.
 
 I built an automated weather forcast for a specified route.
